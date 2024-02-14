@@ -9,3 +9,5 @@ I also included bubbleSort, selectionSort, and insertionSort functionality into 
 please change lines 6-8 and call either three of the functions, passing inputValues array as the parameter. 
 
 ![image](https://github.com/kylehraja/NumberSorter/assets/140476247/d81eadd8-ad22-401d-9e92-83a9867fef8b)
+
+Open and run with VSCode
