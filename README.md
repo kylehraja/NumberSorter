@@ -1,5 +1,5 @@
 # Number Sorter
-A web app that takes 5 numbers between 1-10 and sorts them. Uses HTML, CSS, and JS.
+A web app that takes 5 numbers between 0-9 and sorts them. Uses HTML, CSS, and JS.
 
 ![image](https://github.com/kylehraja/NumberSorter/assets/140476247/7894a9e9-9fe0-477e-a7bf-a1992b39f888)
 
